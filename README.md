@@ -49,6 +49,7 @@ all := db.ReadAll()
  * @description 删除key为x的值并且保存进json文件
  **/ 
 db.Del("x").Save()
+```
 
 ## License
 This code is distributed under the MIT License.
