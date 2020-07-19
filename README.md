@@ -7,7 +7,7 @@ Json file database based on golang
 ## 安装
 
 ```bash
-go get https://github.com/FantasyGao/jsondb
+go get github.com/FantasyGao/jsondb
 ```
 
 ## 用法
